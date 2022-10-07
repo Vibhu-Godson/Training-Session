@@ -1,0 +1,11 @@
+1.sum of digits.
+2.reverse a number
+3.Check if a number is palindrome
+4.Dumb Numbers
+5.Armstrong Numbers
+6.Prime Number{
+    Check if a given number if prime.
+    check if n could be sum of 2 prime numbers 
+}
+7.Swap two Numbers
+8.Largest among 3
