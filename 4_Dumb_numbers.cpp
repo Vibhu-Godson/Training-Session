@@ -11,6 +11,7 @@ int main ()
     // cin>>t;
     while(t--){
         int n;cin>>n;
+        if(n==0) cout<<"NO\n";
         if(n%10==0) cout<<"YES";
         else cout<<"NO\n";
     }
